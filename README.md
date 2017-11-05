@@ -1,2 +1,0 @@
-# iptvkd
-IPTV FHD
