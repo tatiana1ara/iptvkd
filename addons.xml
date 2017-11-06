@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.iptvfhd" name="IPTVFHD" version="1.0" provider-name="IPTVFHD">
+<addon id="plugin.video.iptvfhd" name="IPTV FHD" version="1.0" provider-name="IPTV FHD">
   <requires>
      <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -10,10 +10,10 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="en"></summary>
     <website></website>
-    <description lang="en">SOPORTE HD INTERNACIONAL</description>
+    <description lang="en">SOPORTE FHD INTERNACIONAL</description>
     <forum></forum>
     <email></email>
-    <disclaimer lang="es">SOPORTE HD INTERNACIONAL</disclaimer>
+    <disclaimer lang="es">SOPORTE FHD INTERNACIONAL</disclaimer>
     <platform>all</platform>
   </extension>
 </addon>
